@@ -16,11 +16,11 @@
   <distributionManagement>
     <repository>
       <id>internal-releases</id>
-      <url>http://your-repo-url/artifactory/libs-release-local</url>
+      <url>https://github.com/dharmaraj257/webpage.github.io.git/artifactory/libs-release-local</url>
     </repository>
     <snapshotRepository>
       <id>internal-snapshots</id>
-      <url>http://your-repo-url/artifactory/libs-snapshot-local</url>
+      <url>https://github.com/dharmaraj257/webpage.github.io.git/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
   </distributionManagement>
 
